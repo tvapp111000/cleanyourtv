@@ -1,3 +1,13 @@
+# Family TV Home — personal fork
+
+This fork includes **Family TV Home**, a customized Android TV launcher with Hebrew and Russian banners, four home categories, app selection and ordering, and default apps.
+
+**Start here: [עברית — הוראות ושימוש](family-launcher/README.he.md) · [Launcher source](family-launcher/)**
+
+The customized version lives in `family-launcher/`; `launcher/` retains the upstream launcher. Based on [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv), with its MIT license and original attribution preserved. The upstream documentation follows.
+
+---
+
 <p align="center">
   <a href="https://cleanyour.tv"><img src="https://raw.githubusercontent.com/Gathin23/cleanyourtv/main/docs/banner.png" alt="CleanYourTV. Your TV, minus the ads. Strip the bloatware from any Android TV or Google TV over Wi-Fi and replace the ad-filled home screen with a clean launcher that looks like an Apple TV. No root, no cable, nothing uninstalled, and a one-line restore." width="800"></a>
 </p>

@@ -19,3 +19,12 @@ traces/
 *.aab
 launcher/hs_err_pid*.log
 launcher/replay_pid*.log
+
+# Personal category launcher: keep local builds, signing and device data private.
+family-launcher/.gradle/
+family-launcher/**/build/
+family-launcher/local.properties
+*.jks
+*.keystore
+.env
+.env.*
